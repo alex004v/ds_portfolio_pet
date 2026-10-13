@@ -3,4 +3,4 @@
 
 | № | Название проекта | Описание | Стек |
 |---|------------------|----------|------|
-| 01| [Модель банковского скоринга - 01](https://github.com/alex004v/ds_portfolio_pet/tree/main/01_credit_score_first) | Строится модель кредитного скоринга. Стекинг базовых моделей + метамодель с калибровкой "сырых" вероятностей дефолта посредством Isotonic Regression (на изолированной калибровочной выборке). | 🛠 Стек технологий: Python, Pandas, NumPy, Scikit-learn, CatBoost / RandomForest / LightGBM / XGBoost, Matplotlib, Seaborn, Исследовательский анализ данных (EDA), Feature Engineering, обработка дисбаланса классов. |
+| 01| [Модель банковского скоринга - 01](https://github.com/alex004v/ds_portfolio_pet/tree/main/01_credit_score_first) | Строится модель кредитного скоринга. Стекинг базовых моделей + метамодель с калибровкой "сырых" вероятностей дефолта посредством Isotonic Regression (на изолированной калибровочной выборке). | 🛠 Стек технологий: Python, Pandas, NumPy, Scikit-learn, CatBoost / RandomForest / LightGBM / XGBoost, Matplotlib, Seaborn, Исследовательский анализ данных (EDA), Feature Engineering, обработка дисбаланса классов, калибровка вероятностей дефолта. |
