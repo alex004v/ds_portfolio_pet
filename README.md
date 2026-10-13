@@ -3,4 +3,4 @@
 
 | № | Название проекта | Описание | Стек |
 |---|------------------|----------|------|
-| 01| [Модель банковского скоринга - 01](https://github.com/alex004v/ds_portfolio_yp/tree/main/18_telecom_clients_outflow_forecast) | . | 🛠 Стек технологий: Python, Pandas, NumPy, Scikit-learn, CatBoost / RandomForest / LightGBM / XGBoost, Matplotlib, Seaborn, Исследовательский анализ данных (EDA), Feature Engineering, обработка дисбаланса классов. |
+| 01| [Модель банковского скоринга - 01](https://github.com/alex004v/ds_portfolio_pet/tree/main/01_credit_score_first) | . | 🛠 Стек технологий: Python, Pandas, NumPy, Scikit-learn, CatBoost / RandomForest / LightGBM / XGBoost, Matplotlib, Seaborn, Исследовательский анализ данных (EDA), Feature Engineering, обработка дисбаланса классов. |
